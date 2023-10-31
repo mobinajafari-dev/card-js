@@ -1,0 +1,59 @@
+diffrences between host and host name
+what is toJSON() and toString()? their diffrences?
+what is origin?
+what is diffrences between entries and foreach ?
+
+
+
+what is web hosting?
+what is port actually?
+
+
+internet
+
+http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+https://roadmap.sh/guides/what-is-internet
+https://internetfundamentals.com/
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work
+https://www.youtube.com/watch?v=TNQsmPf24go
+
+http 
+
+https://cs.fyi/guide/http-in-depth
+https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/
+https://howhttps.works/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/
+https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/
+https://www.youtube.com/watch?v=iYM2zFP3Zn0
+
+
+domain name
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name
+https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/
+https://www.youtube.com/watch?v=Y4cRx19nhJk
+
+hosting
+
+https://www.youtube.com/watch?v=htbY9-yggB0
+https://www.youtube.com/watch?v=AXVZYzw8geg
+https://www.youtube.com/watch?v=Kx_1NYYJS7Q
+
+dns
+
+https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/
+https://howdns.works/
+https://messwithdns.net/
+https://www.youtube.com/watch?v=Wj0od2ag5sk
+https://www.youtube.com/watch?v=7lxgpKh_fRY
+https://www.youtube.com/watch?v=e48AyJOA9W8
+https://www.youtube.com/watch?v=YV5tkQYcvfg
+
+browser
+
+https://www.youtube.com/watch?v=WjDrMKZWCt0
+https://web.dev/articles/howbrowserswork
+https://www.browserstack.com/guide/browser-rendering-engine
+https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
